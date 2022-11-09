@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fannie\\Source\\Repos\\Fannie\\FannieExercise\\FannieExercise.csproj": {}
+    "C:\\Users\\Fannie\\source\\repos\\Fannie\\FannieExercise\\FannieExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fannie\\Source\\Repos\\Fannie\\FannieExercise\\FannieExercise.csproj": {
+    "C:\\Users\\Fannie\\source\\repos\\Fannie\\FannieExercise\\FannieExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fannie\\Source\\Repos\\Fannie\\FannieExercise\\FannieExercise.csproj",
+        "projectUniqueName": "C:\\Users\\Fannie\\source\\repos\\Fannie\\FannieExercise\\FannieExercise.csproj",
         "projectName": "FannieExercise",
-        "projectPath": "C:\\Users\\Fannie\\Source\\Repos\\Fannie\\FannieExercise\\FannieExercise.csproj",
+        "projectPath": "C:\\Users\\Fannie\\source\\repos\\Fannie\\FannieExercise\\FannieExercise.csproj",
         "packagesPath": "C:\\Users\\Fannie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fannie\\Source\\Repos\\Fannie\\FannieExercise\\obj\\",
+        "outputPath": "C:\\Users\\Fannie\\source\\repos\\Fannie\\FannieExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fannie\\AppData\\Roaming\\NuGet\\NuGet.Config",
