@@ -1,15 +1,20 @@
-﻿internal class Program
+﻿using FannieExercise;
+
+internal class Program : Greeting
 {
     private static void Main(string[] args)
     {
-        SayHello();
+        var gr = new Greeting();
+
+        gr.SayHello();
+
+        Console.WriteLine(gr.SendGreeting(IGreeting.Greetings.Hello));
+        Console.WriteLine(gr.SendGreeting(IGreeting.Greetings.Goodbye));
+
+       
     }
 
-    public static void SayHello()
-    {
-        Console.WriteLine("Hello, World!");
-
-    }
+  
 }
 
 

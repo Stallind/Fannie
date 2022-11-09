@@ -1,0 +1,15 @@
+C:\Users\Fannie\Source\Repos\Fannie\FannieExercise\bin\Debug\net6.0\FannieExercise.exe
+C:\Users\Fannie\Source\Repos\Fannie\FannieExercise\bin\Debug\net6.0\FannieExercise.deps.json
+C:\Users\Fannie\Source\Repos\Fannie\FannieExercise\bin\Debug\net6.0\FannieExercise.runtimeconfig.json
+C:\Users\Fannie\Source\Repos\Fannie\FannieExercise\bin\Debug\net6.0\FannieExercise.dll
+C:\Users\Fannie\Source\Repos\Fannie\FannieExercise\bin\Debug\net6.0\FannieExercise.pdb
+C:\Users\Fannie\Source\Repos\Fannie\FannieExercise\obj\Debug\net6.0\FannieExercise.csproj.AssemblyReference.cache
+C:\Users\Fannie\Source\Repos\Fannie\FannieExercise\obj\Debug\net6.0\FannieExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fannie\Source\Repos\Fannie\FannieExercise\obj\Debug\net6.0\FannieExercise.AssemblyInfoInputs.cache
+C:\Users\Fannie\Source\Repos\Fannie\FannieExercise\obj\Debug\net6.0\FannieExercise.AssemblyInfo.cs
+C:\Users\Fannie\Source\Repos\Fannie\FannieExercise\obj\Debug\net6.0\FannieExercise.csproj.CoreCompileInputs.cache
+C:\Users\Fannie\Source\Repos\Fannie\FannieExercise\obj\Debug\net6.0\FannieExercise.dll
+C:\Users\Fannie\Source\Repos\Fannie\FannieExercise\obj\Debug\net6.0\refint\FannieExercise.dll
+C:\Users\Fannie\Source\Repos\Fannie\FannieExercise\obj\Debug\net6.0\FannieExercise.pdb
+C:\Users\Fannie\Source\Repos\Fannie\FannieExercise\obj\Debug\net6.0\FannieExercise.genruntimeconfig.cache
+C:\Users\Fannie\Source\Repos\Fannie\FannieExercise\obj\Debug\net6.0\ref\FannieExercise.dll

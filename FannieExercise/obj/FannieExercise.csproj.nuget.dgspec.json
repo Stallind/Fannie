@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\StefanLindahl\\source\\repos\\FannieExercise\\FannieExercise\\FannieExercise.csproj": {}
+    "C:\\Users\\Fannie\\source\\repos\\Fannie\\FannieExercise\\FannieExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\StefanLindahl\\source\\repos\\FannieExercise\\FannieExercise\\FannieExercise.csproj": {
+    "C:\\Users\\Fannie\\source\\repos\\Fannie\\FannieExercise\\FannieExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\StefanLindahl\\source\\repos\\FannieExercise\\FannieExercise\\FannieExercise.csproj",
+        "projectUniqueName": "C:\\Users\\Fannie\\source\\repos\\Fannie\\FannieExercise\\FannieExercise.csproj",
         "projectName": "FannieExercise",
-        "projectPath": "C:\\Users\\StefanLindahl\\source\\repos\\FannieExercise\\FannieExercise\\FannieExercise.csproj",
-        "packagesPath": "C:\\Users\\StefanLindahl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\StefanLindahl\\source\\repos\\FannieExercise\\FannieExercise\\obj\\",
+        "projectPath": "C:\\Users\\Fannie\\source\\repos\\Fannie\\FannieExercise\\FannieExercise.csproj",
+        "packagesPath": "C:\\Users\\Fannie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Fannie\\source\\repos\\Fannie\\FannieExercise\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\StefanLindahl\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Fannie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
